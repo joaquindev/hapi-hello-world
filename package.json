@@ -1,0 +1,25 @@
+{
+  "name": "hapi-hello-world",
+  "version": "0.0.1",
+  "description": "Repo for testing HAPI functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/hapi-hello-world.git"
+  },
+  "keywords": [
+    "hapi",
+    "nodejs",
+    "server"
+  ],
+  "author": "JoaquinDev",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "d0dd755a8c11fdc88eb55bd2aa98f7665071e53f",
+  "dependencies": {
+    "hapi": "~2.1.2"
+  }
+}
